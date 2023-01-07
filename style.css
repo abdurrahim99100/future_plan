@@ -52,6 +52,64 @@
     color: white;
     text-align: center;
 }
+/* color section style */
+.color-continer
+{
+    width: 306px;
+    height: 128px;  
+    position: absolute; 
+    margin-left: 812px;
+    margin-top: 60px;
+    background-image: linear-gradient( to left,#C0C0C0,#8D918D);
+    border-bottom: 1px solid black;
+    border-left: 1px solid rgb(37, 33, 33);
+    border-radius: 5px;
+}
+.color img
+{
+    width: 20px;
+    height: 20px;
+}
+.color-hading
+{
+    width: 380px;
+    display: inline;
+    font-size: 20px;
+}
+.red
+{
+    color: red;
+}
+.blue
+{
+    color: blue;
+}
+.green
+{
+    color: green;
+}
+.tomato
+{
+    color: tomato;
+}   
+.color-submit
+{
+    height: 32px;
+    width: 84px;
+    background-color: tomato;
+    padding-top: 4px;
+    font-size: 18px;
+    color: white;
+    margin-top: 12px;
+    text-align: center;
+    border-radius: 5px;
+    
+}
+.color-submit a
+{
+    text-decoration: none;
+}
+
 /* body img customize */
 .phot-background
 {
