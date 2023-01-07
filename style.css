@@ -51,6 +51,181 @@
     text-decoration: none;
     color: white;
     text-align: center;
+}
+/* body img customize */
+.phot-background
+{
+    margin-left: 272px;
+    margin-top: 406px;
+    width: 528px;
+    height: 528px;
+    background-color: pink;
+    border-radius: 50%;
+}
+.main-photoss
+{
+    position: absolute;
+    top: 1020px;
+    left: 250px;
+}
+.main
+{
+    display: flex;
 
+}
+.main-details0
+{
+    margin-left: 140px;
+    margin-top: 446px;
+}
+.details-hading
+{
+    width: 253px;
+    font-weight: 700px;
+    font-size: 40px;
+}
+.main-details0 p
+{
+    width: 431px;
+    line-height: 30px;
+    font-size: 20px;
+    margin-top: 20px;
+}
+.main-details0 ul li
+{
+    
+}
+.list-item12
+{
+    
+    margin-left: -20px;
+    margin-top: 25px;
+    list-style-image: url("images/icons/tick.png");
+}
+/* my plans design */
+.section
+{
+    display: flex;
+    gap: 250px;
+    text-align: centers;
+    width: 1274px;
+    height: 300px;
+    margin: 100px auto;
 
+}
+.my-plan
+{
+    text-align: center;
+    margin-top: 100px;
+    font-size: 60px;
+    font-weight: 700;
+}
+.banner-image2
+{
+    background-image: linear-gradient(to right, rgba(255, 99, 71, 0.705),rgba(255, 99, 71, 0.158)) ,url("images/watch.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 1338px;
+    height: 354px;
+    margin: 10px auto;
+    border-radius: 5px;
+    
+}
+.banner-2 h2
+{
+    font-size: 50px;
+    font-weight: 800;
+    width: 540px;
+    height: 150px;
+    padding-top: 60px;
+    margin-left: 100px;
+}
+.main-body-button
+{
+    background-color: white;
+    height: 48px;
+    width: 150px;
+    text-align: center;
+    padding-top: 12px;
+    margin-left: 100px;
+    border-radius: 5px;
+    font-weight: 1200px;
+}
+.main-body-button a
+{
+    text-decoration: none;
+    color: tomato;
+    font-size: 25px;
+    
+}
+/* footer style */
+.main-footer
+{
+    height: 700px;
+    width: 100%px;
+    background-color: black;
+    color: white;
+}
+.main-footer
+{
+    display: flex;
+    margin-top: 220px;
+    gap: 450px;
+    padding-top: 200px;
+    padding-left: 300px;
+    
+}
+.footer-section h1
+{
+    font-size: 50px;
+    font-weight: 800;
+}
+.footer-section
+{
+    width: 493px;
+    height: 500px;
+   
+    
+}
+.footer-section p
+{
+    margin-top: 30px;
+    padding-bottom: 30px;
+}
+.pe
+{
+    width: 200px;
+    height: 50px;
+    margin-top: 30px;
+}
+.footer-icone img
+{
+    margin-left: 5px;
+    margin-top: 10px;
+}
+/* footer form design */
+.footer-form
+{
+    width: 400px;
+    height: 300px;
+    
+    font-size: 30px;
+
+}
+.footer-input
+{
+    width: 310px;
+    height: 40;
+    padding: 10px;
+    border-radius: 5px;
+}
+.final-button
+{
+    width: 200px;
+    background-color: white;
+    font-size: 20px;
+    padding: 10px;
+    text-decoration: none;
+    border-radius: 5px;
+    color: tomato;
 }
